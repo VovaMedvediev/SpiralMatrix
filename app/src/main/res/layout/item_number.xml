@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/text_view_item_matrix"
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        android:text="@string/item_matrix"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/colorTextViewMatrix"/>
+
+</android.support.v7.widget.CardView>
